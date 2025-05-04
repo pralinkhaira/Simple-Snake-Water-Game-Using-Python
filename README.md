@@ -77,6 +77,12 @@ The game follows the classic Snake Water Gun rules:
 - Improved user interface with modern design
 - Added confirmation dialogs for important actions
 
+## ScreenShots
+![image](https://github.com/user-attachments/assets/d1c3a4d2-8207-4660-b11b-e9dff0ed1a95)
+![image](https://github.com/user-attachments/assets/fa13bce1-1cab-4d9f-9a3e-f5212769f441)
+![image](https://github.com/user-attachments/assets/1d3d20aa-fe2e-4ecb-868a-fd29015dd104)
+![image](https://github.com/user-attachments/assets/959f1f5c-87dc-469c-a2e4-c8f30bd4c4e6)
+
 ## Future Improvements
 
 Potential future enhancements could include:
